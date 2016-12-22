@@ -1,32 +1,10 @@
 ﻿using System;
-using System.Collections;
-using System.Collections.Generic;
-using System.Linq;
-using System.Windows.Forms;
-
 
 namespace LotteryMachine
 {
     class LotteryMachine
     {
         private static int _maxAmountOfBalls = 100000;
-
-
-        public static void ProduceIEDic(int h )
-        {
-            object[] f = new object[]
-            {
-                new TextBox(),
-                new Button()
-            };
-
-            object k = "kkk";
-            string g = "kkk";
-
-            var n = "k";
-       
-
-        }
 
         // 洗球
         public static int[] Shuttler()
