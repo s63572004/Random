@@ -1,0 +1,6 @@
+H:\Jenny\visual相關\C#_VisaulStudio\LotteryMachine\LotteryMachine\bin\Debug\LotteryMachine.exe.config
+H:\Jenny\visual相關\C#_VisaulStudio\LotteryMachine\LotteryMachine\bin\Debug\LotteryMachine.exe
+H:\Jenny\visual相關\C#_VisaulStudio\LotteryMachine\LotteryMachine\bin\Debug\LotteryMachine.pdb
+H:\Jenny\visual相關\C#_VisaulStudio\LotteryMachine\LotteryMachine\obj\Debug\LotteryMachine.csprojResolveAssemblyReference.cache
+H:\Jenny\visual相關\C#_VisaulStudio\LotteryMachine\LotteryMachine\obj\Debug\LotteryMachine.exe
+H:\Jenny\visual相關\C#_VisaulStudio\LotteryMachine\LotteryMachine\obj\Debug\LotteryMachine.pdb
